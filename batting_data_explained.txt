@@ -1,0 +1,35 @@
+2.2 Batting Table
+playerID       Player ID code main variable (check if unique)
+yearID         Year
+stint          player's stint (order of appearances within a season)
+teamID         Team
+lgID           League
+G              Games
+AB             At Bats
+R              Runs
+H              Hits
+2B             Doubles
+3B             Triples
+HR             Homeruns
+RBI            Runs Batted In = redits a batter for making a play that allows a run to be scored
+SB             Stolen Bases
+CS             Caught Stealing = move out of base without ball being batted
+BB             Base on Balls = four balls by the pitcher making batter walk to first base
+SO             Strikeouts kicked beacuse 3 strikes
+IBB            Intentional walks
+HBP            Hit by pitch
+SH             Sacrifice hits
+SF             Sacrifice flies
+GIDP           Grounded into double plays
+
+Possible calculations
+best player
+mean batting whole
+mean batting each year with histogram
+best team of each year
+does the best player has played the most games?
+player with most home runs of history 
+player with most home runs each year
+
+
+
